@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --bege: #faf0e6ff;
+    --verdinho: rgba(205, 222, 119, 0.785);
+    --preto: rgb(0, 0, 0);
+    --green: #8aa15eff;
+    --marrom: #909090;
+    --fonte-primaria: "Bebas Neue", sans-serif;
+    --fonte-secundaria: "Jost", sans-serif;
+
+}
